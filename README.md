@@ -1,5 +1,11 @@
 # **MANIFEST**
 
+---
+
+[**PDF**](Manifest_CADRC.pdf "Manifest_CADRC.pdf") - [**EPUB**](Manifest_CADRC.epub "Manifest_CADRC.epub") - [**HTML**](Manifest_CADRC.html "Manifest_CADRC.html")
+
+---
+
 ![](Manifest_CADRC.png)
 
 ---
@@ -232,11 +238,11 @@ Un espectre —l'espectre del processisme— plana damunt de Catalunya, escombre
 
 A València, 25 d'abril de 2019
 
-[**http://anarquistesperlarepublica.cat**](http://anarquistesperlarepublica.cat)
+[**http://anarquistesperlarepublica.cat**](http://anarquistesperlarepublica.cat "http://anarquistesperlarepublica.cat")
 
-[**comite\@anarquistesperlarepublica.cat**](mailto:comite@anarquistesperlarepublica.cat)
+[**comite@anarquistesperlarepublica.cat**](mailto:comite@anarquistesperlarepublica.cat "comite@anarquistesperlarepublica.cat")
 
-[**CAPC.cat@protonmail.com**](mailto:CAPC.cat@protonmail.com)
+[**CAPC.cat@protonmail.com**](mailto:CAPC.cat@protonmail.com "CAPC.cat@protonmail.com")
 
-[**http://www.capc.cat**](http://www.capc.cat)
+[**http://www.capc.cat**](http://www.capc.cat "http://www.capc.cat")
 
