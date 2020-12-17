@@ -1,5 +1,12 @@
 # **MANIFEST**
 
+---
+
+[**PDF**](Manifest_CADRC.pdf "Manifest_CADRC.pdf") - [**EPUB**](Manifest_CADRC.epub "Manifest_CADRC.epub") - [**HTML**](Manifest_CADRC.html "Manifest_CADRC.html")
+
+---
+
+
 ![](Manifest_CADRC.png)
 
 ---
