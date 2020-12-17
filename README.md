@@ -2,10 +2,6 @@
 
 ![](Manifest_CADRC.png)
 
-|                              **Dels Comitès Anarquistes**
-|                                        **en Defensa**
-|                              **de la República Catalana**
-
 ---
 
 |             **Manifest dels Comitès Anarquistes en Defensa**
@@ -24,11 +20,7 @@
 
 <br>
 
-|                                     **MANIFEST**
-
-|                                           **dels**
-
-|   **Comitès Anarquistes en Defensa de la República Catalana**
+**MANIFEST dels Comitès Anarquistes en Defensa de la República Catalana**
 
 A tots i a totes!
 
@@ -255,4 +247,6 @@ A València, 25 d'abril de 2019
 [**comite\@anarquistesperlarepublica.cat**](mailto:comite@anarquistesperlarepublica.cat)
 
 [**CAPC.cat@protonmail.com**](mailto:CAPC.cat@protonmail.com)
+
+[**http://www.capc.cat**](http://www.capc.cat)
 
