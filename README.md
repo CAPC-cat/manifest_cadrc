@@ -4,17 +4,7 @@
 
 ---
 
-|             **Manifest dels Comitès Anarquistes en Defensa**
-|             **de la República Catalana elaborat per delegats**
-|                    **de grups i d’individualitats dels**
-|             **Països Catalans reunits a la ciutat de València**
-|                              **(Horta de València)**
-|                            **el 25 d’abril de 2019,**
-|                  **312 aniversari de la batalla d’Almansa**
-|               **i 45 de la Revolució dels Clavells a Portugal**
-
-
-
+**Manifest dels Comitès Anarquistes en Defensa de la República Catalana elaborat per delegats de grups i d’individualitats dels Països Catalans reunits a la ciutat de València (Horta de València) el 25 d’abril de 2019, 312 aniversari de la batalla d’Almansa i 45 de la Revolució dels Clavells a Portugal**
 
 ---
 
