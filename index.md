@@ -1,6 +1,6 @@
 # **MANIFEST**
 
-![](https://github.com/CAPC-cat/manifest_cadrc/blob/main/Manifest_CADRC.png)
+![](Manifest_CADRC.png)
 
 ---
 
